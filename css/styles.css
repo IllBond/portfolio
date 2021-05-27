@@ -1271,6 +1271,14 @@ input[type='checkbox'] {
 	background-size: cover; 
 }
 
+.basic-4altbac {
+
+		padding-top: 6.5rem;
+	padding-bottom: 6.75rem;
+	background: url('../images/123.jpg') center center no-repeat;
+	background-size: cover; 
+} 
+
 .basic-4 .text-container {
 	margin-bottom: 3.5rem;
 	text-align: center;
